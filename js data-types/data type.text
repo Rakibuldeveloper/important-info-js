@@ -1,0 +1,32 @@
+
+
+
+
+
+
+1 Primitive Data Types:
+
+Number: Represents numeric values, including integers (whole numbers) and decimals.
+
+String: Represents textual data enclosed in quotes (single or double quotes, or backticks).
+
+Array : An array is a special type of object that allows you to store a collection of items under a single variable name.
+These items can be of various data types, including other arrays, objects, or even a mix of different types.
+
+Boolean: Represents logical values, either true or false.
+
+Null: Represents the intentional absence of a value.
+
+Undefined: Represents a variable that has been declared but not assigned a value.
+
+Symbol: A unique and immutable data type primarily used as an object property key.
+
+BigInt: An integer data type that allows for arbitrary precision (larger numbers than the standard Number type).
+
+2 Non-Primitive Data Type:
+
+Object: A complex data type that stores collections of key-value pairs. Objects provide a way to structure data and represent real-world entities.
+
+
+
+
